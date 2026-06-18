@@ -118,14 +118,17 @@ Tested 18 hyperparameter combinations × 5 folds = **90 total training runs**
 Python · pandas · numpy · scikit-learn · XGBoost · matplotlib · seaborn · scipy
 
 ## ▶️ How to Run
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/youtube-spam-detection.git
-
-# 2. Install dependencies
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn scipy
-
-# 3. Open the notebook
-jupyter notebook notebooks/YouTube_Spam_Detection.ipynb
----
+1. Clone the repo
+```bash
+   git clone https://github.com/Jay4l44/YouTube-Spam-Comments-Detection.git
+```
+2. Install dependencies
+```bash
+   pip install pandas numpy scikit-learn xgboost matplotlib seaborn scipy
+```
+3. Open the notebook
+```bash
+   jupyter notebook notebooks/YouTube_Spam_Detection.ipynb
+```
 
 *This project was submitted as a final course requirement.*
